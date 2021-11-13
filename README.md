@@ -18,6 +18,9 @@ Los costos asociados a las rutas están medidos en minutos.
 ![image](https://user-images.githubusercontent.com/89056734/141026200-cec7b2d7-0b04-405f-89a0-20a4053f6c94.png)
 
 ENTREGA 3 - Daniel Morales
+
 ![Figure_1](https://user-images.githubusercontent.com/88337429/141601874-8e994426-7bee-4810-b04b-a1623108185b.png)
+
 ![Figure_2](https://user-images.githubusercontent.com/88337429/141601875-a4e5673b-29b4-4870-9b8d-9c540eb1cea9.png)
+
 Se presenta la imagen generada de la zona donde vivo, ortuzar 140. Junto con la zona del enunciado como ejemplo del funcionamiento del codigo.
