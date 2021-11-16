@@ -24,3 +24,13 @@ ENTREGA 3 - Daniel Morales
 ![Figure_2](https://user-images.githubusercontent.com/88337429/141601875-a4e5673b-29b4-4870-9b8d-9c540eb1cea9.png)
 
 Se presenta la imagen generada de la zona donde vivo, ortuzar 140. Junto con la zona del enunciado como ejemplo del funcionamiento del codigo.
+
+ENTREGA 4
+
+
+![arcosp3e4](https://user-images.githubusercontent.com/88337429/141875711-918ec6a1-6708-4b6c-a202-55ec527c6583.png)
+![arcos2p3e4](https://user-images.githubusercontent.com/88337429/141875716-8c814ab5-2be0-457a-8bd0-05ba0362e9d6.png)
+
+![wardrop1](https://user-images.githubusercontent.com/88337429/141875719-81707188-acb1-4c72-99e4-c5071fafc50d.PNG)
+![wardrop2](https://user-images.githubusercontent.com/88337429/141875725-a49be0f6-f945-4b81-8175-aba9ff43af23.PNG)
+
