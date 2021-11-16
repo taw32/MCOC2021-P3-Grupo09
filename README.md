@@ -65,5 +65,4 @@ Estas iteraciones son posibles gracias al uso de dijkstra_path para encontrar la
 
 En cada iteracion se decidio enviar una cantidad de viajes proporcionales a la demanda del par OD para lograr obtener una mejor convergencia.
 
-Se puede ver que esta entrega se hace el equilibrio si hizo a travez de los arcos, y no de las rutas. Esto se hace ya que con las rutas quedan mas incognitas que ecuaciones, por ende, habrían infinitas soluciones.
 
