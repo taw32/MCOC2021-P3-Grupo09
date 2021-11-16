@@ -46,6 +46,6 @@ OD= {
      ("D","C"):350,
      ("D","E"):1190,
      ("D","G"):1200,
-     }
+     } #Se crea un diccionario OD a partir de la informacion
 ```     
-aja
+
