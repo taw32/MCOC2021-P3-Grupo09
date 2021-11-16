@@ -72,4 +72,6 @@ Con respecto a las rutas utilizadas, según wardrop, solo se utilizaran las ruta
 Como modo de contexto, wardrop afirma que una vez llegado al equilibiro, como es el caso de esta tarea, ningun usuario, puede reducir unilateralmente su costo mediante el cambio de ruta. 
 De esta forma, las rutas utilizadas para los distintos pares origen destino serán solo las destacadas en el excel.
 
+En conclusión, el equilibrio está presente en este ejercicio, y se comprueba a ver los flujo en las rutas, los cuales son casi identicos con errores de 0,03% o inferiores. 
+
 
