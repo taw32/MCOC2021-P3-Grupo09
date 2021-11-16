@@ -54,7 +54,6 @@ while True:
                 #G.edges[o,d]["flujo"]+=0.1
             #OD[key]-=0.1
                 G.edges[o,d]["flujo"]+=OD_target[key]/1000
-                #print(OD_target[key]/1000)
             OD[key]-=OD_target[key]/1000
             se_asigno_demanda=True
     if not se_asigno_demanda: break
