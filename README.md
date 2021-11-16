@@ -34,3 +34,17 @@ Se presenta la imagen generada de la zona donde vivo, ortuzar 140. Junto con la 
 ![wardrop1](https://user-images.githubusercontent.com/88337429/141875719-81707188-acb1-4c72-99e4-c5071fafc50d.PNG)
 ![wardrop2](https://user-images.githubusercontent.com/88337429/141875725-a49be0f6-f945-4b81-8175-aba9ff43af23.PNG)
 
+''
+OD= {
+     ("A","C"):1100,
+     ("A","D"):1110,
+     ("A","E"):1020,
+     ("B","C"):1140,
+     ("B","D"):1160,
+     ("C","E"):1170,
+     ("C","G"):1180,
+     ("D","C"):350,
+     ("D","E"):1190,
+     ("D","G"):1200,
+     }
+     ''
