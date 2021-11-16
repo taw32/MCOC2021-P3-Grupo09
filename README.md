@@ -59,4 +59,5 @@ while True:
             se_asigno_demanda=True
     if not se_asigno_demanda: break
 ```     
-
+Tras la creacion del diccionario con los valores de la matriz OD se crea una copia llamada OD_target, ambos diccionarios son utilizados para iterar de acuerdo a cuantos viajes faltan por realizar para cumplir con la matriz OD.
+Estas iteraciones son posibles gracias al uso de dijkstra_path para encontrar la ruta mas barata enviar el viaje de cada iteracion de acuerdo a los costos de la iteracion anterior hasta que se hayan iterado todos los pares OD y la demanda sea satisfecha.
