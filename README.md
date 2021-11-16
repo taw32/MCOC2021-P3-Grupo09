@@ -35,17 +35,28 @@ Se presenta la imagen generada de la zona donde vivo, ortuzar 140. Junto con la 
 ![wardrop2](https://user-images.githubusercontent.com/88337429/141875725-a49be0f6-f945-4b81-8175-aba9ff43af23.PNG)
 
 ```Python
-OD= {
-     ("A","C"):1100,
-     ("A","D"):1110,
-     ("A","E"):1020,
-     ("B","C"):1140,
-     ("B","D"):1160,
-     ("C","E"):1170,
-     ("C","G"):1180,
-     ("D","C"):350,
-     ("D","E"):1190,
-     ("D","G"):1200,
-     } #Se crea un diccionario OD a partir de la informacion
+while True:
+    se_asigno_demanda=False
+    for key in OD:
+        demanda_actual = OD[key]
+        demanda_objetivo=OD_target[key]
+
+        if demanda_actual>0:
+            
+            path=dijkstra_path(G,key[0],key[1], weight=costo)
+            #incrementar flujo en ruta minima
+            Nparadas =len(path)
+            
+            for i_parada in range(Nparadas-1):
+                o=path[i_parada]
+                d= path[i_parada+1]
+                flujo_antes=G.edges[o,d]["flujo"]
+                #G.edges[o,d]["flujo"]+=0.1
+            #OD[key]-=0.1
+                G.edges[o,d]["flujo"]+=OD_target[key]/1000
+                #print(OD_target[key]/1000)
+            OD[key]-=OD_target[key]/1000
+            se_asigno_demanda=True
+    if not se_asigno_demanda: break
 ```     
 
