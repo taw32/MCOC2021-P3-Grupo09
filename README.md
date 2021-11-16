@@ -34,6 +34,7 @@ Se presenta la imagen generada de la zona donde vivo, ortuzar 140. Junto con la 
 ![wardrop1](https://user-images.githubusercontent.com/88337429/141875719-81707188-acb1-4c72-99e4-c5071fafc50d.PNG)
 ![wardrop2](https://user-images.githubusercontent.com/88337429/141875725-a49be0f6-f945-4b81-8175-aba9ff43af23.PNG)
 
+Algoritmo utilizado:
 ```Python
 while True:
     se_asigno_demanda=False
